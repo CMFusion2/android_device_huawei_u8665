@@ -21,7 +21,7 @@ DEVICE_PACKAGE_OVERLAYS += device/huawei/u8815/overlay
 
 # Files
 PRODUCT_COPY_FILES += \
-    device/huawei/u8665ootdir/fstab.huawei:root/fstab.huawei \
+    device/huawei/u8665/rootdir/fstab.huawei:root/fstab.huawei \
     device/huawei/u8665/rootdir/init.device.rc:root/init.device.rc
 
 PRODUCT_COPY_FILES += \
